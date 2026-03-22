@@ -40,7 +40,7 @@ A simple experiment using LangChain and Gemini to create an interactive AI shopk
 
 ## 3. HOW TO USE
 
-1. Open the local URL provided by Vite (usually http://localhost:5173).
+1. Open the web.
 2. Enter your **Username** and a **Product** (e.g., Bread).
 3. Click **Submit** to see the AI's flustered response and live stats.
 
