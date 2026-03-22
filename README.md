@@ -12,14 +12,14 @@ A simple experiment using LangChain and Gemini to create an interactive AI shopk
    ```
 
 2. Set up your API key:  
-   Create a file named `.env` in the backend folder and add:
+   Create a file named `.env` in the server folder and add:
    ```env
    API_KEY=your_gemini_api_key_here
    ```
 
 3. Start the server:
    ```bash
-   python app.py
+   python main.py
    ```
 
 ---
