@@ -1,6 +1,7 @@
 ### 🛍️ ShopKeeper-Slopppin — Setup Guide
 
 A simple experiment using LangChain and Gemini to create an interactive AI shopkeeper that returns structured data.
+<img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/a05c762a-3f25-4173-ace6-615d77ba3ef6" />
 
 ---
 
